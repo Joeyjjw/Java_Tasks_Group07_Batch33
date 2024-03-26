@@ -7,12 +7,12 @@ public class FINRA {
         int number = 30;
         String results = "";
 
-        if(number %3 ==0){
+        if(number % 3 ==0){
             System.out.println("FIN");
         } else if (number%5==0) {
             System.out.println("RA");
 
-        } else if (number %3==0 || number %5 ==0) {
+        } else if (number %3==0 & number %5 ==0) {
             System.out.println("FINRA");
 
         }else {
