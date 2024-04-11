@@ -6,4 +6,10 @@ public class TestCases {
     //login
     // logout
 
+    // test case 2
+    // login
+    // logout
+
+
+
 }
